@@ -2,7 +2,7 @@ module github.com/openshift-online/ecr-creds-sync/hack/tools
 
 go 1.26.0
 
-require github.com/golangci/golangci-lint/v2 v2.13.2
+require github.com/golangci/golangci-lint/v2 v2.14.0
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.4.0 // indirect
